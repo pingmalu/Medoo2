@@ -26,7 +26,7 @@ PHP 5.4+ and PDO extension installed
 
 Add Medoo to composer.json configuration file.
 ```
-$ composer require malu/Medoo2
+$ composer require malu/medoo2
 ```
 
 And update the composer
